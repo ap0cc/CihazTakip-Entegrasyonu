@@ -1,0 +1,614 @@
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.exe.config
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.exe
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.pdb
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.AssemblyReference.cache
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.Form1.resources
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.Properties.Resources.resources
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.GenerateResource.cache
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.CoreCompileInputs.cache
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.exe
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.pdb
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.exe.licenses
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.CopyComplete
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormAnaEntegrasyon.resources
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazGrupTanımları.resources
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazTeknik.resources
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazTanımla.resources
+C:\Users\novait\source\repos\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormEntegTanımla.resources
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.exe.config
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.exe
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.pdb
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.AssemblyReference.cache
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.Form1.resources
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormAnaEntegrasyon.resources
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazGrupTanımları.resources
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazTanımla.resources
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazTeknik.resources
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormEntegTanımla.resources
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.Properties.Resources.resources
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.GenerateResource.cache
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.exe.licenses
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.CoreCompileInputs.cache
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.CopyComplete
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.exe
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.pdb
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormPersonelTanımlama.resources
+C:\Users\novait\Desktop\enteg son\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormSistemOdası.resources
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.exe.config
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.exe
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.pdb
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.AssemblyReference.cache
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.Form1.resources
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormAnaEntegrasyon.resources
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazGrupTanımları.resources
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazTanımla.resources
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazTeknik.resources
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormEntegTanımla.resources
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormPersonelTanımlama.resources
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormSistemOdası.resources
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.Properties.Resources.resources
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.GenerateResource.cache
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.exe.licenses
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.CoreCompileInputs.cache
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.CopyComplete
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.exe
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.pdb
+C:\Users\novait\Desktop\ENTEG DENEME POINTER\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormTeknikGörüntüle.resources
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.exe.config
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.exe
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.pdb
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.AssemblyReference.cache
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.Form1.resources
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormAnaEntegrasyon.resources
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazGrupTanımları.resources
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazTanımla.resources
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazTeknik.resources
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormTeknikGörüntüle.resources
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormEntegTanımla.resources
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormPersonelTanımlama.resources
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormSistemOdası.resources
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.Properties.Resources.resources
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.GenerateResource.cache
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.exe.licenses
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.CoreCompileInputs.cache
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.CopyComplete
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.exe
+C:\Users\novait\Desktop\CİHAZ ARK\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.pdb
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.exe.config
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.exe
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.pdb
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.AssemblyReference.cache
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.Form1.resources
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormAnaEntegrasyon.resources
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazGrupTanımları.resources
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazTanımla.resources
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazTeknik.resources
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormTeknikGörüntüle.resources
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormEntegTanımla.resources
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormPersonelTanımlama.resources
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormSistemOdası.resources
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.Properties.Resources.resources
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.GenerateResource.cache
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.exe.licenses
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.CoreCompileInputs.cache
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.CopyComplete
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.exe
+C:\Users\novait\Desktop\FULL IT TAKIP\2021 EKIM SON CITIR\Cihaz_Enteg_Programı\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.pdb
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.exe.config
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.exe
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\Cihaz_Enteg_Programı.pdb
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.AssemblyReference.cache
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.Form1.resources
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormAnaEntegrasyon.resources
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazGrupTanımları.resources
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazTanımla.resources
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormCihazTeknik.resources
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormTeknikGörüntüle.resources
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormEntegTanımla.resources
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormPersonelTanımlama.resources
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.FormSistemOdası.resources
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.Properties.Resources.resources
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.GenerateResource.cache
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.exe.licenses
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.CoreCompileInputs.cache
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.csproj.CopyComplete
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.exe
+C:\Users\novait\Desktop\GITHUB REPO\Cihaz_Enteg_Programı\obj\Debug\Cihaz_Enteg_Programı.pdb
