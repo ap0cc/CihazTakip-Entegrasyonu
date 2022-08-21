@@ -1,4 +1,5 @@
 # CihazTakip-Entegrasyonu
+Windows Form Application
 Bilgi İşlem birimlerine yönelik, cihaz envanter takibini kolaylaştırmak amaçlanmıştır.
 
 bin/debug
